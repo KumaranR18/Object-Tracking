@@ -1,4 +1,4 @@
-# **Object Tracking Based on Color**
+<h1 align="center">Object Tracking Based on Color</h1>
 
 A real-time computer vision project that detects and tracks objects based on their color using OpenCV and Python.
 
